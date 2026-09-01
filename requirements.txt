@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+optimizely-opal.opal-tools-sdk
+pandas
