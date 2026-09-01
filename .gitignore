@@ -1,1 +1,2 @@
-data/opal.db
+data/*.db
+data/*.csv
